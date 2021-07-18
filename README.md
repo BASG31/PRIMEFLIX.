@@ -23,7 +23,7 @@
 <br>
 <body>
     <center>
-        
+        <!--bot carousel-->
         <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
             <ol class="carousel-indicators">
               <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -44,15 +44,15 @@
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-50" src="IMAGENS/images.04.jpg" width="728" height="1024" alt="Third slide">               
+                <img class="d-block w-50" src="IMAGENS/images.04.jpg" width="728" height="1024" alt="Four slide">               
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-50" class="d-block w-100" src="IMAGENS/images.05.jpg" width="728" height="1024" alt="Third slide">               
+                <img class="d-block w-50" class="d-block w-100" src="IMAGENS/images.05.jpg" width="728" height="1024" alt="Five slide">               
               </div>
               
               <div class="carousel-item">
-                <img class="d-block w-50" src="IMAGENS/images.06.jpg" width="728" height="1024" alt="Third slide">               
+                <img class="d-block w-50" src="IMAGENS/images.06.jpg" width="728" height="1024" alt="Six slide">               
               </div>
 
             </div>
@@ -65,7 +65,7 @@
               <span class="sr-only">Next</span>
             </a>
           </div>
-          
+          <!--bot carousel-->
 </center>
 <br>
 <br>
