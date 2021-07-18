@@ -34,27 +34,27 @@
             </ol>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img class="d-block w-50" src="IMAGENS/images.01.jpg" width="728" height="1024" alt="First slide">
+                <img class="d-block w-50" src="https://fontmeme.com/images/The-Crow-Poster.jpg" width="728" height="1024" alt="First slide">
                 
               </div>
               <div class="carousel-item">
-                <img class="d-block w-50" src="IMAGENS/images.02.jpg" width="728" height="1024" alt="Second slide">               
+                <img class="d-block w-50" src="https://fontmeme.com/images/Sleepy-Hollow-Poster-370x555.jpg" width="728" height="1024" alt="Second slide">               
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-50" src="IMAGENS/images.03.jpg" width="728" height="1024" alt="Third slide">               
+                <img class="d-block w-50" src="https://fontmeme.com/images/Iron-Man-Poster-370x555.jpg" width="728" height="1024" alt="Third slide">               
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-50" src="IMAGENS/images.04.jpg" width="728" height="1024" alt="Four slide">               
+                <img class="d-block w-50" src="https://fontmeme.com/images/the-lightning-theif-poster-font-min-370x548.jpg" width="728" height="1024" alt="Four slide">               
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-50" src="IMAGENS/images.05.jpg" width="728" height="1024" alt="Five slide">               
+                <img class="d-block w-50" src="https://fontmeme.com/images/Spider_Man_Homecoming_font-370x548.jpg" width="728" height="1024" alt="Five slide">               
               </div>
               
               <div class="carousel-item">
-                <img class="d-block w-50" src="IMAGENS/images.06.jpg" width="728" height="1024" alt="Six slide">               
+                <img class="d-block w-50" src="https://fontmeme.com/images/Tron-Legacy-Poster.jpg" width="728" height="1024" alt="Six slide">               
               </div>
 
             </div>
